@@ -10,7 +10,7 @@
 
 - 🛠️ **Backend:** Go, C++
 - 🏗️ **Databases:** PostgreSQL, MySQL (query optimization, migrations)
-- ⚡ **Tools:** CI/CD, Wails, Docker
+- ⚡ **Tools:** Wails, Docker, Cmake
 - 💡 **Interests:** Clean architecture, code clarity, performance
 
 ---
