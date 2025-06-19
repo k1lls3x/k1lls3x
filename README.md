@@ -17,14 +17,35 @@
 ---
 ## 🚀 Projects
 
-- [**Inventory App**](https://github.com/k1lls3x/inventory-app)  
-  🏷️ Inventory & warehouse management, Go + PostgreSQL + Wails
+<div align="center">
 
-- [**CPP Transport Catalogue**](https://github.com/k1lls3x/cpp-transport-catalogue)  
-  🚍 Route planner for public transport, C++ + JSON + SVG
+  <table>
+    <tr>
+      <td width="250">
+        <b> <a href="https://github.com/k1lls3x/inventory-app">📦 Inventory App</a> </b><br>
+        <sub>Inventory & warehouse management system.</sub><br>
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="24">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="24">
+        <img src="https://img.shields.io/badge/Wails-1F2235?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHJ4PSIzMCIgZmlsbD0iI0ZGMDAwMCIvPjwvc3ZnPg==" height="24">
+      </td>
+      <td width="400">
+        <b> <a href="https://github.com/k1lls3x/cpp-transport-catalogue">🚌 CPP Transport Catalogue</a> </b><br>
+        <sub>Route planner for public transport.</sub><br>
+        <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="24">
+        <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" height="24">
+        <img src="https://img.shields.io/badge/SVG-ffb13b?style=for-the-badge" height="24">
+      </td>
+      <td width="350">
+        <b> <a href="https://github.com/k1lls3x/person-service">👤 Person Service</a> </b><br>
+        <sub>Microservice for enriching people data.</sub><br>
+        <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="24">
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="24">
+      </td>
+    </tr>
+  </table>
 
-- [**Person Service**](https://github.com/k1lls3x/person-service)  
-  👤 Microservice for enriching people data, Go + PostgreSQL
+</div>
+
   
 ## 💻 Tech Stack
 
