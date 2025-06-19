@@ -17,51 +17,26 @@
 
 ## 🚀 Projects
 
-<div align="center">
+**[📦 Inventory App](https://github.com/k1lls3x/inventory-app)**  
+Warehouse management system  
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="26"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="26"/>
+<img src="https://img.shields.io/badge/Wails-FF0000?style=for-the-badge" height="26"/>
 
-<table>
-  <tr>
-    <td width="340" align="center" valign="top">
-      <a href="https://github.com/k1lls3x/inventory-app" style="font-size:20px; font-weight:bold;">
-        <span style="font-size:28px;">📦</span><br>
-        <b>Inventory App</b>
-      </a>
-      <br><br>
-      <b>Warehouse management system</b><br>
-      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="26"/>&nbsp;
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="26"/>&nbsp;
-      <img src="https://img.shields.io/badge/Wails-FF0000?style=for-the-badge" height="26"/>
-    </td>
-  </tr>
-  <tr><td height="12"></td></tr>
-  <tr>
-    <td width="340" align="center" valign="top">
-      <a href="https://github.com/k1lls3x/cpp-transport-catalogue" style="font-size:20px; font-weight:bold;">
-        <span style="font-size:28px;">🚌</span><br>
-        <b>CPP Transport Catalogue</b>
-      </a>
-      <br><br>
-      <b>Route planner for public transport</b><br>
-      <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="26"/>&nbsp;
-      <img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" height="26"/>&nbsp;
-      <img src="https://img.shields.io/badge/SVG-ffb13b?style=for-the-badge" height="26"/>
-    </td>
-  </tr>
-  <tr><td height="12"></td></tr>
-  <tr>
-    <td width="340" align="center" valign="top">
-      <a href="https://github.com/k1lls3x/person-service" style="font-size:20px; font-weight:bold;">
-        <span style="font-size:28px;">👤</span><br>
-        <b>Person Service</b>
-      </a>
-      <br><br>
-      <b>Microservice for enriching people data</b><br>
-      <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="26"/>&nbsp;
-      <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="26"/>
-    </td>
-  </tr>
-</table>
-</div>
+<br><br>
+
+**[🚌 CPP Transport Catalogue](https://github.com/k1lls3x/cpp-transport-catalogue)**  
+Route planner for public transport  
+<img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" height="26"/>
+<img src="https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white&style=for-the-badge" height="26"/>
+<img src="https://img.shields.io/badge/SVG-ffb13b?style=for-the-badge" height="26"/>
+
+<br><br>
+
+**[👤 Person Service](https://github.com/k1lls3x/person-service)**  
+Microservice for enriching people data  
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="26"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="26"/>
 
 ---
 
