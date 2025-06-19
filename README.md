@@ -11,7 +11,7 @@
 - 🛠️ Building reliable backend systems with <b>Go</b> and <b>C++</b>
 - 💡 Focused on clean architecture, code readability, and performance
 - 🗃️ Designing efficient databases, automating business workflows, and writing robust SQL
-- ⚡ Love working with PostgreSQL, MySQL, and finding bottlenecks in legacy code
+- ⚡ Working with PostgreSQL, MySQL, CI/CD, and finding bottlenecks in legacy code
 - 🌍 Always learning new backend patterns, tools, and open to cool collaborations
 
 ---
@@ -37,6 +37,14 @@
 
 ---
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1lls3x&theme=catppuccin_mocha&hide_border=true&layout=compact&size_weight=2&count_weight=2" height="180"/>
+</div>
+
+---
+
 ## 🌐 Contacts
 
 <p>
@@ -50,16 +58,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k1lls3x&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=k1lls3x&theme=catppuccin_mocha&hide_border=true" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1lls3x&theme=catppuccin_mocha&hide_border=true&layout=compact" height="120"/>
-  <br>
-  <b>C++</b> • <b>Go</b> • <b>Python</b> • <b>Vue</b> • <b>TypeScript</b>
 </p>
 
 ---
