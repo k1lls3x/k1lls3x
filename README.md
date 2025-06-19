@@ -61,9 +61,10 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k1lls3x&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=k1lls3x&theme=catppuccin_mocha&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=k1lls3x&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true" height="220"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=k1lls3x&theme=catppuccin_mocha&hide_border=true" height="220"/>
 </p>
+
 
 
 
