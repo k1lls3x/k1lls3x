@@ -23,7 +23,7 @@
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+
 </p>
 
 ### Databases & Tools
@@ -67,8 +67,3 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k1lls3x&theme=date_night&no-frame=true&no-bg=true&margin-w=4"/>
-</p>
