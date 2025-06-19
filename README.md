@@ -40,7 +40,7 @@
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1lls3x&theme=catppuccin_mocha&hide_border=true&layout=compact&size_weight=2&count_weight=2" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1lls3x&theme=catppuccin_mocha&hide_border=false&layout=compact&size_weight=2&count_weight=2" height="180"/>
 </div>
 
 ---
@@ -65,5 +65,6 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=k1lls3x&theme=catppuccin_mocha&hide_border=true" height="150"/>
 </p>
 
----
 
+
+# 💫 About Me:
