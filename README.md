@@ -15,7 +15,17 @@
 - 🌍 Always learning new backend patterns, tools, and open to cool collaborations
 
 ---
+## 🚀 Projects
 
+- [**Inventory App**](https://github.com/k1lls3x/inventory-app)  
+  🏷️ Inventory & warehouse management, Go + PostgreSQL + Wails
+
+- [**CPP Transport Catalogue**](https://github.com/k1lls3x/cpp-transport-catalogue)  
+  🚍 Route planner for public transport, C++ + JSON + SVG
+
+- [**Person Service**](https://github.com/k1lls3x/person-service)  
+  👤 Microservice for enriching people data, Go + PostgreSQL
+  
 ## 💻 Tech Stack
 
 ### Languages
