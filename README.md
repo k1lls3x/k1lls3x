@@ -1,14 +1,14 @@
 <div align="center">
   <h1>Hi, I'm Dimitry 👋</h1>
-  <p><b>Backend Developer · Go · C++ · Databases · Automation</b></p>
+  <p><b>Backend Developer · Go · Databases · Automation</b></p>
   <p>Turning code into scalable systems and automating boring stuff.</p>
 </div>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🛠️ **Backend:** Go, C++
+- 🛠️ **Backend:** Go
 - 🏗️ **Databases:** PostgreSQL, MySQL (query optimization, migrations)
 - ⚡ **Tools:** Wails, Docker, Cmake, Swagger, REST API, Postman
 - 💡 **Interests:** Clean architecture, code clarity, performance
